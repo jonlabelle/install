@@ -13,7 +13,7 @@ Arguments:
 
    1   Source file.
    2   Destination file.
-   
+
 Options:
 
   -D   Create the destination directory and set the umask to 022.
