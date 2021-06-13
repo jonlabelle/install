@@ -1,5 +1,7 @@
 # Install
 
+Installation tool written in Shell.
+
 > Inspired by the [musl libc](https://musl.libc.org) project's [install tool](https://git.musl-libc.org/cgit/musl/tree/tools/install.sh).
 
 ## Usage
