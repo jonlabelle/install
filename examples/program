@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "Hello and goodbye from program."
