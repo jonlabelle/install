@@ -25,5 +25,5 @@ jobs:
 
       - name: Run Shellcheck
         uses: azohra/shell-linter@latest
-          with:
-            path: "install.sh"
+        with:
+          path: "install.sh"
