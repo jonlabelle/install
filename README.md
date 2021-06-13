@@ -18,7 +18,7 @@ Options:
 
   -D   Create the destination directory and set the umask to 022.
   -l   Make symbolic link.
-  -m   File mode (see CHMOD(1) -> MODES). Cannot be used with -l option. Default is 755.
+  -m   File mode (see CHMOD(1) -> MODES). Ignored if used with -l option. Default is 755.
 ```
 
 ## Examples
